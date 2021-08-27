@@ -1,0 +1,22 @@
+{
+  "name": "js-interactivity",
+  "version": "1.0.0",
+  "description": "implementation of basic js functions",
+  "main": "interactivity.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanilaHashnikov/JS-interactivity.git"
+  },
+  "keywords": [
+    "interactivity"
+  ],
+  "author": "Danila Hashnikov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanilaHashnikov/JS-interactivity/issues"
+  },
+  "homepage": "https://github.com/DanilaHashnikov/JS-interactivity#readme"
+}
